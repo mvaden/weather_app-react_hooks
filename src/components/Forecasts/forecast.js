@@ -3,7 +3,7 @@ import axios from 'axios';
 import './forecast.css';
 
 
-const API_key = '4f8768dbd19739e448bde51b6b7f9472';
+const API_key = 'hidden';
 const url = `http://api.openweathermap.org/data/2.5/onecall?lat=38.9072&lon=-77.0369&units=imperial&lang=en&appid=${API_key}`;
 
 
